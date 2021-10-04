@@ -1,11 +1,11 @@
 ## INTRODUCTION
-# Stock_strength_predictor
+Stock_strength_predictor
 I designed this project to plot graphs of some 6 S&P 500 stock data.  
 
 # Pipeline
 The project involves getting S&P stock data using yahoo finance library, transforming it using Pandas and plotting the real time data using FuncAnimation from Matplotlib.  
 
-![Sample image]https://github.com/Richard-code-gig/Stock_strength_predictor/blob/master/image/result_sample.jpeg?raw=true)
+![Sample image](https://github.com/Richard-code-gig/Stock_strength_predictor/blob/master/image/result_sample.jpeg?raw=true)
 
 ## Installation
 Git clone https://github.com/Richard-code-gig/Stock_strength_predictor to install the package folder.  
