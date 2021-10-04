@@ -1,5 +1,5 @@
 ## INTRODUCTION
-Stock_strength_predictor
+# Stock_strength_predictor  
 I designed this project to plot graphs of some 6 S&P 500 stock data.  
 
 # Pipeline
