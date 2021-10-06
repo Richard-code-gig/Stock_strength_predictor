@@ -1,6 +1,6 @@
 # INTRODUCTION
 ## Stock_strength_predictor  
-I designed this project to plot graphs of some 6 S&P 500 stock data.  
+I designed this project to get some 6 S&P 500 real time stock data, perform some basic algorithms and graph the results.  
 
 ## Project Design
 The project involves getting S&P stock data using yahoo finance library, transforming it using Pandas and plotting the real time data using FuncAnimation from Matplotlib.  
